@@ -1,7 +1,7 @@
 impact-grid-movement
 ====================
 
-Form from: https://github.com/Joncom/impact-grid-movement
+Fork from: https://github.com/Joncom/impact-grid-movement
 ---------------------
 
 Usage:
