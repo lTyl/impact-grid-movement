@@ -10,3 +10,4 @@ this.movement = new GridMovement(this);
 
 DEMO:
 http://labs.aurava.com/javascript/gridMovement/
+
